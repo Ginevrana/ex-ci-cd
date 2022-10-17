@@ -22,4 +22,4 @@ jobs:
     
     - name: Run code
       run: |
-        python${{ matrix.version }} draw.py
+        python${{ matrix.version }} arbol.py
